@@ -12,5 +12,20 @@
       font-size: 38px;
       color:aliceblue;
       background-color:black;
+      text-align: center;
+      text-decoration: underline;
+      text-decoration: bold;
+    }
+.eg{
+    font-size: 18px;
+    color: aliceblue;
+    background-color: black;
+    
+}
+#img2{
+    align-content: center;
+}
+#img1{
+    align-content: center;
 }
 
