@@ -1,5 +1,16 @@
 .ed{
-    font-size: 8px;
+    font-size: 18px;
     color: aliceblue;
     background-color: black;
 }
+.er{
+    font-size: 18px;
+    color: black;
+    background-color: aliceblue;
+}
+#Eire{
+      font-size: 38px;
+      color:aliceblue;
+      background-color:black;
+}
+
