@@ -28,4 +28,9 @@
 #img1{
     align-content: center;
 }
+#Marquee{
+    background-color: red;
+    direction: ltr;
+}
+
 
